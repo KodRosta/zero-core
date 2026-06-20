@@ -1,0 +1,9 @@
+Сборка: Beta (версия 1.0)
+Дата фиксации: 2026-06-20
+Автор: ИП Минаев Павел Александрович (Код Роста)
+
+----- ХЭШИ ФАЙЛОВ -----
+31fda92345de7586ea25a938c33f582f3cf3676c693bd79602538d86efaf3830 *core-worker.js
+5768c62b763ef57901568d6331a8d7eb293cfe47a32c9a617128f85edf680946 *kernel_zero.js
+6f61c8db6e9a10be96b4afba60e2dfa699c7e2df5373a016459cef590e1dfade *kernel_zero_bg.wasm
+f564165af526c0c49a0e8de1980d5879381b412225a891c5e896940729ebb1c8 *overview.html
