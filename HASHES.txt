@@ -3,7 +3,10 @@
 
 filename.ext SHA-256-hash размер_файла(байт) дата_создания_файла описание
 
-core-worker.js 31fda92345de7586ea25a938c33f582f3cf3676c693bd79602538d86efaf3830 890000 2026-06-20 Модуль бизнес-логики 
-kernel_zero.js 5768c62b763ef57901568d6331a8d7eb293cfe47a32c9a617128f85edf680946 450000 2026-06-20 Криптографический JS-загрузчик 
-kernel_zero_bg.wasm 6f61c8db6e9a10be96b4afba60e2dfa699c7e2df5373a016459cef590e1dfade 1425000 2026-06-20 Криптографическое ядро WASM 
-overview.html f564165af526c0c49a0e8de1980d5879381b412225a891c5e896940729ebb1c8 45000 2026-06-20 Веб-интерфейс платформы 
+core-worker.js 31fda92345de7586ea25a938c33f582f3cf3676c693bd79602538d86efaf3830 52519 2026-06-20 Модуль бизнес-логики
+kernel_zero.js 5768c62b763ef57901568d6331a8d7eb293cfe47a32c9a617128f85edf680946 9950 2026-06-20 Криптографический JS-загрузчик
+kernel_zero_bg.wasm 6f61c8db6e9a10be96b4afba60e2dfa699c7e2df5373a016459cef590e1dfade 106251 2026-06-20 Криптографическое ядро WASM
+overview.html f564165af526c0c49a0e8de1980d5879381b412225a891c5e896940729ebb1c8 381399 2026-06-20 Веб-интерфейс платформы
+db.php 149b1d1b1f39dd37b331303df41aa8651bb9a35cc19cbfad75a37818a4aa7d72 15000 2026-06-20 Модуль работы с БД
+init.sql d7906a5e37c04d73927c612a4ce5c6b12295b9b8afdfdfd51697d31eeeecbe4f 8361 2026-06-20 Скрипт инициализации БД
+sync.php ff128ff6daa02c2e2e0ebe3578e14ee858f2573829159a1874e97d53e381ef59 1396 2026-06-20 API-шлюз синхронизации
